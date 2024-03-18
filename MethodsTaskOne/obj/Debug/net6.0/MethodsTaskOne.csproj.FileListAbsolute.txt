@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\bin\Debug\net6.0\MethodsTaskOne.exe
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\bin\Debug\net6.0\MethodsTaskOne.deps.json
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\bin\Debug\net6.0\MethodsTaskOne.runtimeconfig.json
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\bin\Debug\net6.0\MethodsTaskOne.dll
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\bin\Debug\net6.0\MethodsTaskOne.pdb
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.dll
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\refint\MethodsTaskOne.dll
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.pdb
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\MethodsTaskOne.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\MethodsTaskOne\MethodsTaskOne\obj\Debug\net6.0\ref\MethodsTaskOne.dll
